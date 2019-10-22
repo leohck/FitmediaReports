@@ -1,0 +1,142 @@
+{
+  "fabricantes": [
+    {
+      "fabricante": "Samsung",
+      "imps": 3453816,
+      "clicks": 21458,
+      "ctr": 0.62128
+    },
+    {
+      "fabricante": "",
+      "imps": 2260617,
+      "clicks": 13099,
+      "ctr": 0.57944
+    },
+    {
+      "fabricante":"LG",
+      "imps": 468571,
+      "clicks": 2844,
+      "ctr": 0.60695
+    },
+    {
+      "fabricante":"Motorola",
+      "imps": 155806,
+      "clicks": 1162,
+      "ctr": 0.7458
+    },
+    {
+      "fabricante":"HTC",
+      "imps": 130721,
+      "clicks": 999,
+      "ctr": 0.76422
+    },
+    {
+      "fabricante":"Lenovo",
+      "imps": 94220,
+      "clicks": 591,
+      "ctr": 0.62726
+    },
+    {
+      "fabricante": "Apple",
+      "imps": 89498,
+      "clicks": 253,
+      "ctr": 0.28269
+    },
+    {
+      "fabricante": "Xiaomi",
+      "imps": 77287,
+      "clicks": 298,
+      "ctr": 0.38558
+    },
+    {
+      "fabricante": "ZTE",
+      "imps": 9323,
+      "clicks": 104,
+      "ctr": 1.11552
+    },
+    {
+      "fabricante": "Amazon",
+      "imps": 6078,
+      "clicks": 143,
+      "ctr": 2.35275
+    },
+    {
+      "fabricante": "Nokia",
+      "imps": 4358,
+      "clicks": 30,
+      "ctr": 0.68839
+    },
+    {
+      "fabricante": "Huawei",
+      "imps": 2984,
+      "clicks": 24,
+      "ctr": 0.80429
+    },
+    {
+      "fabricante": "Sony",
+      "imps": 1250,
+      "clicks": 9,
+      "ctr": 0.72
+    },
+    {
+      "fabricante": "ALCATEL",
+      "imps": 1050,
+      "clicks": 12,
+      "ctr": 1.14286
+    },
+    {
+      "fabricante": "MTS",
+      "imps": 1015,
+      "clicks": 6,
+      "ctr": 0.59113
+    },
+    {
+      "fabricante": "Kyocera",
+      "imps": 903,
+      "clicks": 6,
+      "ctr": 0.66445
+    },
+    {
+      "fabricante": "Fly",
+      "imps": 417,
+      "clicks": 2,
+      "ctr": 0.47962
+    },
+    {
+      "fabricante": "Asus",
+      "imps": 161,
+      "clicks": 12,
+      "ctr": 7.45342
+    },
+    {
+      "fabricante": "Google",
+      "imps": 62,
+      "clicks": 0,
+      "ctr": 0
+    },
+    {
+      "fabricante": "Philips",
+      "imps": 42,
+      "clicks": 0,
+      "ctr": 0
+    },
+    {
+      "fabricante": "BlackBerry",
+      "imps": 21,
+      "clicks": 0,
+      "ctr": 0
+    },
+    {
+      "fabricante": "Acer",
+      "imps": 20,
+      "clicks": 1,
+      "ctr": 5
+    },
+    {
+      "fabricante": "ODYS",
+      "imps": 0,
+      "clicks": 0,
+      "ctr": 0
+    }
+  ]
+}

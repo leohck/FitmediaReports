@@ -1,0 +1,30 @@
+{
+  "dispositivos": [
+    {
+      "campanha": "Farmácias Associadas - Amigo da Sorte",
+      "dispositivo": "PC",
+      "bids": 498475,
+      "imps": 95686,
+      "clicks": 202,
+      "ctr": 0.21
+    },
+    {
+      "campanha": "Farmácias Associadas - Amigo da Sorte",
+      "dispositivo": "Phone",
+      "bids": 2763445,
+      "imps": 862393,
+      "clicks": 8584,
+      "ctr": 1.00
+    },
+    {
+      "campanha": "Farmácias Associadas - Amigo da Sorte",
+      "dispositivo": "Tablet",
+      "bids": 116604,
+      "imps": 37479,
+      "clicks": 319,
+      "ctr": 0.85
+    }
+  ]
+}
+
+

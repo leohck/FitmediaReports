@@ -1,0 +1,50 @@
+{
+  "id": 105052,
+  "name": "Jornal O Tempo - Outubro",
+  "budget_currency": "USD",
+  "account_id": 102760,
+  "summary_status": "approved",
+  "targeting_options": {},
+  "xml_campaign_currency": true,
+  "uploaded_files": [],
+  "line_items": [
+    117508
+  ],
+  "activity": {
+    "imps": 617798,
+    "bids": 924764,
+    "clicks": 6061,
+    "ctr": 0.98,
+    "ecpm": 110,
+    "ecpc": 11,
+    "ecpa": 12,
+    "conversions": 5652,
+    "conversion_rate": 0.91,
+    "total_spend": 68512,
+    "vast_start": 0,
+    "vast_first_quartile": 0,
+    "vast_midpoint": 0,
+    "vast_third_quartile": 0,
+    "vast_complete": 0
+  },
+  "rollup_data": {
+    "flight_start_at": "2019-10-03",
+    "flight_end_at": "2019-10-31",
+    "win": "66.81",
+    "imps": 617798,
+    "clicks": 6061,
+    "conversions": 5652,
+    "total_budget": 130289,
+    "total_active_budget": 130289,
+    "total_spend": 68512,
+    "total_active_spend": 68512,
+    "flight_summary": "inflight",
+    "vast_start": 0,
+    "vast_first_quartile": 0,
+    "vast_midpoint": 0,
+    "vast_third_quartile": 0,
+    "vast_complete": 0
+  },
+  "created_at": "2019-10-03T16:08:25Z",
+  "updated_at": "2019-10-15T20:25:41Z"
+}
