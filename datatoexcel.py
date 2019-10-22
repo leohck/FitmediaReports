@@ -8,12 +8,12 @@ import json
 
 
 def datatoexcel(tipo="padrao"):
-    fm = FileManager("arquivos/")
+    fm = FileManager("arquivos/filtrados/")
 
     # use creds to create a client to interact with the google drive api
     scope = ['https://spreadsheets.google.com/feeds',
              'https://www.googleapis.com/auth/drive']
-    creds = ServiceAccountCredentials.from_json_keyfile_name("arquivos/credentials.json", scope)
+    creds = ServiceAccountCredentials.from_json_keyfile_name("arquivos/config/credentials.json", scope)
     client = gspread.authorize(creds)
 
     # enviar dados consolidado

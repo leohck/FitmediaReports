@@ -1,7 +1,7 @@
 {
-  "days": [
+  "dia": [
     {
-      "campanha": "Jornal O Tempo - Outubro",
+      "nome": "Jornal O Tempo - Outubro",
       "dia": "2019-10-17",
       "bids": 93951,
       "imps": 41802,
@@ -9,7 +9,7 @@
       "ctr": 0.67939
     },
     {
-      "campanha": "Jornal O Tempo - Outubro",
+      "nome": "Jornal O Tempo - Outubro",
       "dia": "2019-10-16",
       "bids": 72453,
       "imps": 42740,
@@ -17,7 +17,7 @@
       "ctr": 0.95695
     },
     {
-      "campanha": "Jornal O Tempo - Outubro",
+      "nome": "Jornal O Tempo - Outubro",
       "dia": "2019-10-15",
       "bids": 57737,
       "imps": 39728,
@@ -25,7 +25,7 @@
       "ctr": 1.08488
     },
     {
-      "campanha": "Jornal O Tempo - Outubro",
+      "nome": "Jornal O Tempo - Outubro",
       "dia": "2019-10-14",
       "bids": 59173,
       "imps": 43048,
@@ -33,7 +33,7 @@
       "ctr": 1.01282
     },
     {
-      "campanha": "Jornal O Tempo - Outubro",
+      "nome": "Jornal O Tempo - Outubro",
       "dia": "2019-10-13",
       "bids": 58123,
       "imps": 39538,
@@ -41,7 +41,7 @@
       "ctr": 1.08503
     },
     {
-      "campanha": "Jornal O Tempo - Outubro",
+      "nome": "Jornal O Tempo - Outubro",
       "dia": "2019-10-12",
       "bids": 68296,
       "imps": 43996,
@@ -49,7 +49,7 @@
       "ctr": 0.93418
     },
     {
-      "campanha": "Jornal O Tempo - Outubro",
+      "nome": "Jornal O Tempo - Outubro",
       "dia": "2019-10-11",
       "bids": 66667,
       "imps": 38124,
@@ -57,7 +57,7 @@
       "ctr": 1.29315
     },
     {
-      "campanha": "Jornal O Tempo - Outubro",
+      "nome": "Jornal O Tempo - Outubro",
       "dia": "2019-10-10",
       "bids": 56865,
       "imps": 44422,
@@ -65,7 +65,7 @@
       "ctr": 0.8937
     },
     {
-      "campanha": "Jornal O Tempo - Outubro",
+      "nome": "Jornal O Tempo - Outubro",
       "dia": "2019-10-09",
       "bids": 48367,
       "imps": 38650,
@@ -73,7 +73,7 @@
       "ctr": 0.98577
     },
     {
-      "campanha": "Jornal O Tempo - Outubro",
+      "nome": "Jornal O Tempo - Outubro",
       "dia": "2019-10-08",
       "bids": 51717,
       "imps": 39489,
@@ -81,7 +81,7 @@
       "ctr": 1.0256
     },
     {
-      "campanha": "Jornal O Tempo - Outubro",
+      "nome": "Jornal O Tempo - Outubro",
       "dia": "2019-10-07",
       "bids": 61102,
       "imps": 47914,
@@ -89,7 +89,7 @@
       "ctr": 0.98719
     },
     {
-      "campanha": "Jornal O Tempo - Outubro",
+      "nome": "Jornal O Tempo - Outubro",
       "dia": "2019-10-06",
       "bids": 47606,
       "imps": 36789,
@@ -97,7 +97,7 @@
       "ctr": 1.24766
     },
     {
-      "campanha": "Jornal O Tempo - Outubro",
+      "nome": "Jornal O Tempo - Outubro",
       "dia": "2019-10-05",
       "bids": 53785,
       "imps": 43334,
@@ -105,7 +105,7 @@
       "ctr": 1.04306
     },
     {
-      "campanha": "Jornal O Tempo - Outubro",
+      "nome": "Jornal O Tempo - Outubro",
       "dia": "2019-10-04",
       "bids": 58183,
       "imps": 38635,
@@ -113,7 +113,7 @@
       "ctr": 0.89297
     },
     {
-      "campanha": "Jornal O Tempo - Outubro",
+      "nome": "Jornal O Tempo - Outubro",
       "dia": "2019-10-03",
       "bids": 33201,
       "imps": 20742,
